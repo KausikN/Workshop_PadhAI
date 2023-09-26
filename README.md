@@ -6,7 +6,7 @@
 
 🏫 [One Fourth Labs](https://padhai.onefourthlabs.in/)
 
-## Workshop
+## Details
 
 |    Name    |   Year   |          Description          |
 | :--------: | :------: | :---------------------------: |
